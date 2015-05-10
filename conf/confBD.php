@@ -22,7 +22,7 @@
 
    $servidor = "us-cdbr-azure-northcentral-a.cleardb.com";
    $porta = 3306;
-   $banco = "b123e63666dd52";
+   $banco = "webapp_mysqldb";
    $usuario = "b123e63666dd52";
    $senha = "a8f3beff";
    
