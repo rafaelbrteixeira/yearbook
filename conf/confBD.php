@@ -20,11 +20,11 @@
 
  function conn_mysql(){
 
-   $servidor = "mysql.hostinger.com.br";
+   $servidor = "us-cdbr-azure-northcentral-a.cleardb.com";
    $porta = 3306;
-   $banco = "u839744172_book";
-   $usuario = "u839744172_daw";
-   $senha = "uberaba";
+   $banco = "b123e63666dd52";
+   $usuario = "b123e63666dd52";
+   $senha = "a8f3beff";
    
       $conn = new PDO("mysql:host=$servidor;
 	               port=$porta;
